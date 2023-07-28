@@ -20,7 +20,7 @@ Para este proyecto usaremos React para crear un ecommerce funcional con base de 
 
 ### Para instalar y ejecutar la aplicación abre una consola en tu máquina local y ejecuta:
 
-1. git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+1. git clone https://github.com/EricApablaza/entregafinal
 2. cd + directorio de la aplicación
 3. npm install para instalar las dependencias.
 4. npm run dev para iniciar la aplicación.
